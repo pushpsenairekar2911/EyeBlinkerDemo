@@ -34,6 +34,6 @@ To run the app, kindly follow the below steps:
 
 # Assets
 
-Kindly, click here to [watch demo with google deive.](https://drive.google.com/file/d/1nPguacB22MqNbPLCpvUqqn075KJHZ80P/view?usp=sharing)
+Kindly, click here to [watch demo with google drive.](https://drive.google.com/file/d/1nPguacB22MqNbPLCpvUqqn075KJHZ80P/view?usp=sharing)
 
 
