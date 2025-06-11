@@ -5,7 +5,7 @@ EyeTracker is a macOS application built with Swift and MVVM architecture. It int
 ---
 
 
-<img align="left" src="">
+<img align="left" src="https://github.com/pushpsenairekar2911/EyeBlinkerDemo/blob/main/Assets%20/screenshot.png">
 
 
 ## 🚀 Features
